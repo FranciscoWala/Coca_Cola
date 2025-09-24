@@ -6,7 +6,7 @@
 body {
     display: flex;
     flex-direction: column;
-    width: 100vh ;
+    width: 100vw ;
     height: 100vh ;
     background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
 }
@@ -14,10 +14,7 @@ body {
     position:absolute;
     max-width: 100%;
     max-height: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    top: 0;left: 0;right: 0;bottom: 0;
     margin: auto;
     opacity: 0.5;
     z-index: -1;
@@ -46,7 +43,7 @@ main {
     color: #FFF;
     font-size: 2.25rem;
     width: 212px;
-    transform: translateX(-100%);
+    transform: translateX(-120%);
     text-align: end;
     margin-right: 24px;
 }
