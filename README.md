@@ -1,5 +1,5 @@
 # Coca-cola
-! [](./img/print.png)
+![](./img/print.png)
 Landing page de treino com HTML e CSS.
 ## Tecnologias
 - html
